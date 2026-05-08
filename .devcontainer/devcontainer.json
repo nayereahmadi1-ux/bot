@@ -1,0 +1,6 @@
+{
+  "name": "Bale Bot",
+  "runArgs": ["--init"],
+  "postCreateCommand": "npm install",
+  "postStartCommand": "node index.js"
+}
